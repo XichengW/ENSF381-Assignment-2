@@ -112,7 +112,7 @@ footer {
     margin: 0;
 }
 
-.social-media-link:hover {
+.contact-method a:hover {
     color: #007BFF;
 }
 
@@ -234,3 +234,4 @@ footer {
 
 .signup-link:hover{
     text-decoration: underline;
+}
